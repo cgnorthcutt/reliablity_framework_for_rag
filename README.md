@@ -1,5 +1,5 @@
 # reliablity_framework_for_rag
-Hacked this together in 2 hours. Shows how Cleanlab TLM can be used to improve fine-tuning of LLMs, accuracy of LLM outputs, and smart routing for RAG and agents.
+Hacked this together in 2 hours with Jonas Mueller. Shows how Cleanlab TLM can be used to improve fine-tuning of LLMs, accuracy of LLM outputs, and smart routing for RAG and agents.
 
 <img width="1109" alt="image" src="https://github.com/cgnorthcutt/reliablity_framework_for_rag/assets/27030270/f5d5a0e4-2051-4460-bc04-aff1a7640b02">
 
