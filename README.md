@@ -1,5 +1,11 @@
 # reliablity_framework_for_rag
-Hacked this together in 2 hours with Jonas Mueller. Shows how Cleanlab TLM can be used to improve fine-tuning of LLMs, accuracy of LLM outputs, and smart routing for RAG and agents.
+
+**News!** I added a new data enrichment and LLM reliability [demo](https://github.com/cgnorthcutt/reliablity_framework_for_rag/blob/main/tlm_demo_new.ipynb). Details:
+* Demo showing how Trustworthy Language Model add reliability scores to LLM outputs solving 4 use cases for 4 verticals.
+* expect typos and imperfection. For better results and more details, visit [https://help.cleanlab.ai](https://help.cleanlab.ai/tutorials/tlm/)
+
+
+Hacked this together in a couple hours. Shows how Cleanlab TLM can be used to improve fine-tuning of LLMs, accuracy of LLM outputs, and smart routing for RAG and agents.
 
 <img width="1109" alt="image" src="https://github.com/cgnorthcutt/reliablity_framework_for_rag/assets/27030270/f5d5a0e4-2051-4460-bc04-aff1a7640b02">
 
