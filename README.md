@@ -1,5 +1,7 @@
 # Demo of TLM: The Reliablity Solution for RAG, LLMs, and Data Enrichment
 
+## The main file to look at in this repo is the [tlm_demo_new.ipynb](https://github.com/cgnorthcutt/reliablity_framework_for_rag/blob/main/tlm_demo_new.ipynb)
+
 **News!** I added a new data enrichment and LLM reliability [demo](https://github.com/cgnorthcutt/reliablity_framework_for_rag/blob/main/tlm_demo_new.ipynb). Details:
 * Demo showing how Trustworthy Language Model add reliability scores to LLM outputs solving 4 use cases for 4 verticals.
 * expect typos and imperfection. For better results and more details, visit [https://help.cleanlab.ai](https://help.cleanlab.ai/tutorials/tlm/)
